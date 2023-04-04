@@ -1,9 +1,9 @@
 #include <iostream>
 int main()
 {
-    string a;
-   std::cin >> a;
- std::cout << "Hello world from " << a << endl;
+    string a; // defining variable 
+   std::cin >> a; // input variable
+ std::cout << "Hello world from " << a << endl; //output message
 }
 
 
